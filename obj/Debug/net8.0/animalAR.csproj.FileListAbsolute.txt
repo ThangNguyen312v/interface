@@ -1,0 +1,14 @@
+E:\hoctap\animalAR\bin\Debug\net8.0\animalAR.exe
+E:\hoctap\animalAR\bin\Debug\net8.0\animalAR.deps.json
+E:\hoctap\animalAR\bin\Debug\net8.0\animalAR.runtimeconfig.json
+E:\hoctap\animalAR\bin\Debug\net8.0\animalAR.dll
+E:\hoctap\animalAR\bin\Debug\net8.0\animalAR.pdb
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.AssemblyInfoInputs.cache
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.AssemblyInfo.cs
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.csproj.CoreCompileInputs.cache
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.dll
+E:\hoctap\animalAR\obj\Debug\net8.0\refint\animalAR.dll
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.pdb
+E:\hoctap\animalAR\obj\Debug\net8.0\animalAR.genruntimeconfig.cache
+E:\hoctap\animalAR\obj\Debug\net8.0\ref\animalAR.dll
